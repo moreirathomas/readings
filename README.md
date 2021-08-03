@@ -7,6 +7,8 @@ This repository is a collection of resources and reading on software development
 - [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 - [Falling Into The Pit of Success](https://blog.codinghorror.com/falling-into-the-pit-of-success/)
 - [The WET codebase](https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase)
+- [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
+- [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems)
 
 ## Paradigms
 
@@ -20,6 +22,7 @@ This repository is a collection of resources and reading on software development
 
 - [Ben Johnson's Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 - [Writing slower Go programs](https://bitfieldconsulting.com/golang/slower)
+- [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/)
 
 ## Back-end
 
@@ -34,3 +37,4 @@ This repository is a collection of resources and reading on software development
 
 - [Talks by Gary Bernhardt](https://www.destroyallsoftware.com/talks)
 - [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
+- [Software development is a loser’s game](https://thehosk.medium.com/software-development-is-a-losers-game-fc68bb30d7eb)

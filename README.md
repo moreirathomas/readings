@@ -1,6 +1,6 @@
-# Dev resources
+# Readings
 
-This repository is a collection of resources and reading on software development and computer sciences, and a few more related things.
+This repository is a collection of readings and other resources on software development, computer sciences and a few more related things.
 
 ## Design
 

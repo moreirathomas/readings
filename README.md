@@ -16,7 +16,13 @@ This repository is a collection of readings and other resources on software deve
 
 - [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM) and [Object-Oriented Programming is Good](https://www.youtube.com/watch?v=0iyB0_qPvWk)
 
+### Functional Programming
+
+- [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
+
 ## Languages
+
+- [Learn X in Y minutes](https://learnxinyminutes.com/)
 
 ### Go
 

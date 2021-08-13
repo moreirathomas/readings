@@ -9,6 +9,7 @@ This repository is a collection of readings and other resources on software deve
 - [The WET codebase](https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase)
 - [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
 - [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems)
+- [Ideology](https://www.destroyallsoftware.com/talks/ideology)
 
 ## Paradigms
 
@@ -19,6 +20,11 @@ This repository is a collection of readings and other resources on software deve
 ### Functional Programming
 
 - [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
+
+### Functional Core, Imperative Shell
+
+- [Boudaries](https://www.destroyallsoftware.com/talks/boundaries)
+- [Functional Core, Imperative Shell](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
 
 ## Languages
 
@@ -41,6 +47,6 @@ This repository is a collection of readings and other resources on software deve
 
 ## General and random
 
-- [Talks by Gary Bernhardt](https://www.destroyallsoftware.com/talks)
+- [Wat](https://www.destroyallsoftware.com/talks/wat)
 - [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
 - [Software development is a loser’s game](https://thehosk.medium.com/software-development-is-a-losers-game-fc68bb30d7eb)

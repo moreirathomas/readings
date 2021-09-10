@@ -10,6 +10,7 @@ This repository is a collection of readings and other resources on software deve
 - [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
 - [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems)
 - [Ideology](https://www.destroyallsoftware.com/talks/ideology)
+- [The Strangler Fig Application](https://martinfowler.com/bliki/StranglerFigApplication.html)
 
 ## Paradigms
 
@@ -35,6 +36,8 @@ This repository is a collection of readings and other resources on software deve
 - [Ben Johnson's Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 - [Writing slower Go programs](https://bitfieldconsulting.com/golang/slower)
 - [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/)
+- [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
+- [A theory of modern Go](https://peter.bourgon.org/blog/2017/06/09/theory-of-modern-go.html)
 
 ## Back-end
 

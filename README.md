@@ -24,7 +24,7 @@ This repository is a collection of readings and other resources on software deve
 
 ### Functional Core, Imperative Shell
 
-- [Boudaries](https://www.destroyallsoftware.com/talks/boundaries)
+- [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
 - [Functional Core, Imperative Shell](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
 
 ## Languages

@@ -48,6 +48,10 @@ This repository is a collection of readings and other resources on software deve
 - [In 2020, what is "frontend"](https://swizec.com/blog/in-2020-what-is-frontend/)
 - [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 
+## Product insights
+
+- [Shape Up, Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup/webbook)
+
 ## General and random
 
 - [Wat](https://www.destroyallsoftware.com/talks/wat)

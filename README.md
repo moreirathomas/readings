@@ -11,6 +11,7 @@ This repository is a collection of readings and other resources on software deve
 - [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems)
 - [Ideology](https://www.destroyallsoftware.com/talks/ideology)
 - [The Strangler Fig Application](https://martinfowler.com/bliki/StranglerFigApplication.html)
+- [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 
 ## Paradigms
 

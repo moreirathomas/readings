@@ -12,6 +12,7 @@ This repository is a collection of readings and other resources on software deve
 - [Ideology](https://www.destroyallsoftware.com/talks/ideology)
 - [The Strangler Fig Application](https://martinfowler.com/bliki/StranglerFigApplication.html)
 - [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+- [The Vietnam of Computer Science](http://blogs.tedneward.com/post/the-vietnam-of-computer-science/)
 
 ## Paradigms
 

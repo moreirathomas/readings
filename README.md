@@ -44,6 +44,7 @@ This repository is a collection of readings and other resources on software deve
 ## Back-end
 
 - [Stratégie d’architecture API](https://blog.octo.com/strategie-d-architecture-api/)
+- [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/) (clickbait title but nice insights on data modeling)
 
 ## Front-end
 

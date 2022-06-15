@@ -14,6 +14,10 @@ This repository is a collection of readings and other resources on software deve
 - [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - [The Vietnam of Computer Science](http://blogs.tedneward.com/post/the-vietnam-of-computer-science/)
 
+### DDD
+
+- [Design and Reality](https://verraes.net/2021/09/design-and-reality/)
+
 ## Paradigms
 
 ### Object Oriented Programming
@@ -60,3 +64,4 @@ This repository is a collection of readings and other resources on software deve
 - [Wat](https://www.destroyallsoftware.com/talks/wat)
 - [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
 - [Software development is a loser’s game](https://thehosk.medium.com/software-development-is-a-losers-game-fc68bb30d7eb)
+- [Are We Really Engineers](https://www.hillelwayne.com/post/are-we-really-engineers/)

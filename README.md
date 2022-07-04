@@ -13,6 +13,7 @@ This repository is a collection of readings and other resources on software deve
 - [Repeat yourself, do more than one thing, and rewrite everything](https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and)
 - [The WET codebase](https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase)
 - [The Clean Coder](https://www.youtube.com/watch?v=NeXQEJNWO5w&ab_channel=StreamAConStreamingConferences)
+- [CUPID—for joyful coding](https://dannorth.net/2022/02/10/cupid-for-joyful-coding/)
 
 ### Domain Driven Development
 

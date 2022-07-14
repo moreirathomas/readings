@@ -45,6 +45,17 @@ This repository is a collection of readings and other resources on software deve
 - [The Strangler Fig Application](https://martinfowler.com/bliki/StranglerFigApplication.html)
 - [Treat Your Code as a Crime Scene](https://www.youtube.com/watch?v=7FApEq8wum4&ab_channel=GOTOConferences)
 
+## Product and engineering insights
+
+- [Problem Space and Solution Space](https://solutionspace.blog/2021/10/29/problem-space-and-solution-space/)
+- [Shape Up, Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup/webbook)
+- [Are We Really Engineers?](https://www.hillelwayne.com/post/are-we-really-engineers/)
+- [Not Just Code Monkeys](https://www.youtube.com/watch?v=4E3xfR6IBII&ab_channel=GOTOConferences)
+
+### Agile
+
+- [The New Methodology](https://martinfowler.com/articles/newMethodology.html)
+
 ## Languages
 
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
@@ -70,13 +81,6 @@ This repository is a collection of readings and other resources on software deve
 
 - [In 2020, what is "frontend"](https://swizec.com/blog/in-2020-what-is-frontend/)
 - [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
-
-## Product and engineering insights
-
-- [Problem Space and Solution Space](https://solutionspace.blog/2021/10/29/problem-space-and-solution-space/)
-- [Shape Up, Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup/webbook)
-- [Are We Really Engineers?](https://www.hillelwayne.com/post/are-we-really-engineers/)
-- [Not Just Code Monkeys](https://www.youtube.com/watch?v=4E3xfR6IBII&ab_channel=GOTOConferences)
 
 ## General and random
 

@@ -59,6 +59,7 @@ This repository is a collection of readings and other resources on software deve
 ## Languages
 
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
+- [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 
 ### Go
 

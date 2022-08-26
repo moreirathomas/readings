@@ -88,3 +88,4 @@ This repository is a collection of readings and other resources on software deve
 - [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
 - [Software development is a loser’s game](https://thehosk.medium.com/software-development-is-a-losers-game-fc68bb30d7eb)
 - [Wat](https://www.destroyallsoftware.com/talks/wat)
+- [Rethinking Visual Programming with Go](https://divan.dev/posts/visual_programming_go/)

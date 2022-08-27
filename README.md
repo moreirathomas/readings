@@ -72,6 +72,7 @@ This repository is a collection of readings and other resources on software deve
 ## Back-end
 
 - [Stratégie d’architecture API](https://blog.octo.com/strategie-d-architecture-api/)
+- [How Did REST Come To Mean The Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 
 ### Database
 

@@ -15,6 +15,10 @@ This repository is a collection of readings and other resources on software deve
 - [The Clean Coder](https://www.youtube.com/watch?v=NeXQEJNWO5w&ab_channel=StreamAConStreamingConferences)
 - [CUPID—for joyful coding](https://dannorth.net/2022/02/10/cupid-for-joyful-coding/)
 
+### Architecture
+
+- [Hexagonal architecture](https://alistair.cockburn.us/hexagonal-architecture/)
+
 ### Domain Driven Development
 
 - [Design and Reality](https://verraes.net/2021/09/design-and-reality/)

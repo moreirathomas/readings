@@ -27,6 +27,7 @@ This repository is a collection of readings and other resources on software deve
 
 - [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM) and [Object-Oriented Programming is Good](https://www.youtube.com/watch?v=0iyB0_qPvWk)
 - [Goodbye, Object Oriented Programming](https://cscalfani.medium.com/goodbye-object-oriented-programming-a59cda4c0e53)
+- [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
 
 ### Functional Programming
 

@@ -44,6 +44,7 @@ This repository is a collection of readings and other resources on software deve
 
 - [Ideology](https://www.destroyallsoftware.com/talks/ideology)
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+- [Rethinking Unit Test Assertions](https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f)
 
 ## Refactoring
 

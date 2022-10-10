@@ -57,6 +57,7 @@ This repository is a collection of readings and other resources on software deve
 - [Shape Up, Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup/webbook)
 - [Are We Really Engineers?](https://www.hillelwayne.com/post/are-we-really-engineers/)
 - [Not Just Code Monkeys](https://www.youtube.com/watch?v=4E3xfR6IBII&ab_channel=GOTOConferences)
+- [Ship / Show / Ask](https://martinfowler.com/articles/ship-show-ask.html)
 
 ### Agile
 

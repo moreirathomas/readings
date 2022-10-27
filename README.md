@@ -49,6 +49,7 @@ This repository is a collection of readings and other resources on software deve
 - [Ideology](https://www.destroyallsoftware.com/talks/ideology)
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [Rethinking Unit Test Assertions](https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f)
+- [Testing anti-pattern: The soviet police-station](https://uselessdevblog.wordpress.com/2022/10/04/testing-anti-pattern-the-soviet-police-station/)
 
 ## Refactoring
 
@@ -62,6 +63,7 @@ This repository is a collection of readings and other resources on software deve
 - [Are We Really Engineers?](https://www.hillelwayne.com/post/are-we-really-engineers/)
 - [Not Just Code Monkeys](https://www.youtube.com/watch?v=4E3xfR6IBII&ab_channel=GOTOConferences)
 - [Ship / Show / Ask](https://martinfowler.com/articles/ship-show-ask.html)
+- [How to Do Code Reviews Like a Human Part One](https://mtlynch.io/human-code-reviews-1/) and [Part Two](https://mtlynch.io/human-code-reviews-2/)
 
 ### Agile
 
@@ -101,3 +103,4 @@ This repository is a collection of readings and other resources on software deve
 - [Software development is a loser’s game](https://thehosk.medium.com/software-development-is-a-losers-game-fc68bb30d7eb)
 - [Wat](https://www.destroyallsoftware.com/talks/wat)
 - [Rethinking Visual Programming with Go](https://divan.dev/posts/visual_programming_go/)
+- [A Brief, Incomplete, and Mostly Wrong History of Programming Languages](https://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html?m=1)

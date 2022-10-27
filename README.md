@@ -19,6 +19,10 @@ This repository is a collection of readings and other resources on software deve
 
 - [Hexagonal architecture](https://alistair.cockburn.us/hexagonal-architecture/)
 
+### Patterns
+
+- [Singletons are Pathological Liars](http://misko.hevery.com/2008/08/17/singletons-are-pathological-liars/)
+
 ### Domain Driven Development
 
 - [Design and Reality](https://verraes.net/2021/09/design-and-reality/)

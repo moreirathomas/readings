@@ -68,6 +68,7 @@ This repository is a collection of readings and other resources on software deve
 ### Agile
 
 - [The New Methodology](https://martinfowler.com/articles/newMethodology.html)
+- [The End of Agile: Death by Over-Simplification](https://effectivesoftwaredesign.com/2014/03/17/the-end-of-agile-death-by-over-simplification/)
 
 ## Languages
 

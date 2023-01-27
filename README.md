@@ -50,6 +50,7 @@ This repository is a collection of readings and other resources on software deve
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [Rethinking Unit Test Assertions](https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f)
 - [Testing anti-pattern: The soviet police-station](https://uselessdevblog.wordpress.com/2022/10/04/testing-anti-pattern-the-soviet-police-station/)
+- [TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 
 ## Refactoring
 

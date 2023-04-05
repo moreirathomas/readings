@@ -70,7 +70,8 @@ This repository is a collection of readings and other resources on software deve
 
 - [The New Methodology](https://martinfowler.com/articles/newMethodology.html)
 - [The End of Agile: Death by Over-Simplification](https://effectivesoftwaredesign.com/2014/03/17/the-end-of-agile-death-by-over-simplification/)
-
+- [Less is more agile](https://beny23.github.io/posts/my_take_on_engineering_room_9/)
+ 
 ## Languages
 
 - [Learn X in Y minutes](https://learnxinyminutes.com/)

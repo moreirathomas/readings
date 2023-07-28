@@ -94,6 +94,7 @@ This repository is a collection of readings and other resources on software deve
 
 - [The Vietnam of Computer Science](https://www.odbms.org/wp-content/uploads/2013/11/031.01-Neward-The-Vietnam-of-Computer-Science-June-2006.pdf)
 - [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/) (clickbait title but nice insights on data modeling)
+- [Dance you Imps!](http://blog.cleancoder.com/uncle-bob/2013/10/01/Dance-You-Imps.html)
 
 ## Front-end
 

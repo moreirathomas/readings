@@ -90,9 +90,9 @@ This repository is a collection of readings and other resources on software deve
 - [Stratégie d’architecture API](https://blog.octo.com/strategie-d-architecture-api/)
 - [How Did REST Come To Mean The Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 
-### Database
+### Database and ORM
 
-- [The Vietnam of Computer Science](http://blogs.tedneward.com/post/the-vietnam-of-computer-science/)
+- [The Vietnam of Computer Science](https://www.odbms.org/wp-content/uploads/2013/11/031.01-Neward-The-Vietnam-of-Computer-Science-June-2006.pdf)
 - [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/) (clickbait title but nice insights on data modeling)
 
 ## Front-end

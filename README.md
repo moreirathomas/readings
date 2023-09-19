@@ -65,6 +65,7 @@ This repository is a collection of readings and other resources on software deve
 - [Not Just Code Monkeys](https://www.youtube.com/watch?v=4E3xfR6IBII&ab_channel=GOTOConferences)
 - [Ship / Show / Ask](https://martinfowler.com/articles/ship-show-ask.html)
 - [How to Do Code Reviews Like a Human Part One](https://mtlynch.io/human-code-reviews-1/) and [Part Two](https://mtlynch.io/human-code-reviews-2/)
+- [The Done Manifesto](https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13)
 
 ### Agile
 

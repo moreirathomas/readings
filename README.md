@@ -22,7 +22,7 @@ This repository is a collection of readings and other resources on software deve
 ### Patterns
 
 - [Singletons are Pathological Liars](http://misko.hevery.com/2008/08/17/singletons-are-pathological-liars/)
-
+- [When to use a DI Container](https://blog.ploeh.dk/2012/11/06/WhentouseaDIContainer/)
 ### Domain Driven Development
 
 - [Design and Reality](https://verraes.net/2021/09/design-and-reality/)

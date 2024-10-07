@@ -102,9 +102,13 @@ This repository is a collection of readings and other resources on software deve
 - [In 2020, what is "frontend"](https://swizec.com/blog/in-2020-what-is-frontend/)
 - [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 
-## General and random
+## Git
 
 - [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
+- [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
+
+## General and random
+
 - [Software development is a loser’s game](https://thehosk.medium.com/software-development-is-a-losers-game-fc68bb30d7eb)
 - [Wat](https://www.destroyallsoftware.com/talks/wat)
 - [Rethinking Visual Programming with Go](https://divan.dev/posts/visual_programming_go/)
